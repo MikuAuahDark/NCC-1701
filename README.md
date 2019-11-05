@@ -1,8 +1,8 @@
 NCC-1701
 =====
 
-A Enterprise (Azur Lane) Rainmeter skin.
+An Enterprise (Azur Lane) Rainmeter skin.
 
-Some skins requires Rainmeter + LuaJIT to be used (which means custom build)
+Some skins requires Rainmeter + LuaJIT to be used (which means custom build Rainmeter)
 
 Visualizer script is automatically generated. See `Vis/makevis.lua` for more information.
